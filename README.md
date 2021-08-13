@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dannieeeg
 - 👀 I’m interested in beauty, art, front-end dev, and algorithms
 - 🌱 I’m currently learning front-end development.
-- 💞️ I’m looking to collaborate on anything that I will help continue my growth as a programmer. 
+- 💞️ I’m looking to collaborate on anything that will help continue my growth as a programmer. 
 - 📫 How to reach me: dannieeeg123@gmail.com
 
 <!---
